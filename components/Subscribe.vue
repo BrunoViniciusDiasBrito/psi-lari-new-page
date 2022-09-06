@@ -1,0 +1,26 @@
+<template>
+  <section class="mailchimp-one">
+    <div class="container wow fadeInUp" data-wow-duration="1500ms">
+      <div class="inner-container">
+        <div class="mailchimp-one-title">
+          <h2>Subscribe Newsletter</h2>
+        </div>
+        <form action="#" class="mailchimp-one__form">
+          <input class="mailchimp-input" type="text" placeholder="Enter your email address" name="email">
+          <button class="thm-btn mailchimp-one__btn" type="submit"><span>Register Now</span></button>
+          <!-- /.thm-btn -->
+        </form>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+    export default {
+        name: "Subscribe"
+    }
+</script>
+
+<style scoped>
+
+</style>
