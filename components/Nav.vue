@@ -10,7 +10,7 @@
       <div class="container-fluid">
         <div class="site-header-one__logo">
           <a href="/">
-            <img src="/assets/images/logo-1-1.png" width="129" alt="" />
+            <img src="/assets/images/psi-logo.svg" width="115" alt="" />
           </a>
           <span class="side-menu__toggler"><i class="fa fa-bars"></i></span
           ><!-- /.side-menu__toggler -->
@@ -19,21 +19,21 @@
         <div class="main-nav__main-navigation">
           <ul class="main-nav__navigation-box one-page-scroll-menu">
             <li class="scrollToLink">
-              <a href="/#home">Home</a>
+              <a href="/#home">Incio</a>
             </li>
-            <li class="scrollToLink"><a href="/#features">Features</a></li>
-            <li class="scrollToLink"><a href="/#pricing">Pricing</a></li>
+            <li class="scrollToLink"><a href="/#features">Terapia</a></li>
+            <li class="scrollToLink"><a href="/#pricing">Preços</a></li>
             <li class="scrollToLink">
-              <a href="/#testimonials">Testimonials</a>
+              <a href="/#testimonials">Testemunhos</a>
             </li>
-            <li class="scrollToLink"><a href="/#screens">Screens</a></li>
-            <li class="dropdown  scrollToLink">
+            <li class="scrollToLink"><a href="/#screens">Instagram</a></li>
+            <!-- <li class="dropdown  scrollToLink">
               <a href="/#blog">News</a>
               <ul>
                 <li><nuxt-link to="/blog">News</nuxt-link></li>
                 <li><nuxt-link to="/blog-details">News Details</nuxt-link></li>
               </ul>
-            </li>
+            </li> -->
           </ul>
           <!-- /.main-nav__navigation-box -->
         </div>

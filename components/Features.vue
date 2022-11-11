@@ -2,11 +2,14 @@
   <section id="features" class="service-one">
     <div class="container">
       <div class="block-title text-center">
-        <p>Our App Feature Lists</p>
-        <h3>Piloz Great Features</h3>
+        <p>Amadurecimento para encontrar a si</p>
+        <h3>Por que fazer Terapia?</h3>
       </div>
       <div class="row">
-        <div class=" col-xl-3 col-lg-3 col-md-6 wow fadeInLeft" data-wow-duration="1500ms">
+        <div
+          class=" col-xl-3 col-lg-3 col-md-6 wow fadeInLeft"
+          data-wow-duration="1500ms"
+        >
           <div class="service-one__single">
             <div class="service-icon">
               <div class="icon-box">
@@ -14,12 +17,19 @@
               </div>
             </div>
             <div class="text">
-              <h3>Easy to edit</h3>
-              <p>Lorem ipsum is are many variations of pass majy.</p>
+              <h3>Aumentar a autoconfiança</h3>
+              <p>
+                O medo do novo pode levar muitas pessoas a terem uma certa
+                dificuldade.
+              </p>
             </div>
           </div>
         </div>
-        <div class=" col-xl-3 col-lg-3 col-md-6 wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
+        <div
+          class=" col-xl-3 col-lg-3 col-md-6 wow fadeInUp"
+          data-wow-duration="1500ms"
+          data-wow-delay="100ms"
+        >
           <div class="service-one__single">
             <div class="service-icon icon-bg-2">
               <div class="icon-box icon-box-bg-2">
@@ -27,12 +37,19 @@
               </div>
             </div>
             <div class="text">
-              <h3>Fully secure</h3>
-              <p>Lorem ipsum is are many variations of pass majy.</p>
+              <h3>Lidar com sentimentos</h3>
+              <p>
+                Ocasiões que têm relação com o luto e com separações, por
+                exemplo.
+              </p>
             </div>
           </div>
         </div>
-        <div class=" col-xl-3 col-lg-3 col-md-6 wow fadeInDown" data-wow-duration="1500ms" data-wow-delay="200ms">
+        <div
+          class=" col-xl-3 col-lg-3 col-md-6 wow fadeInDown"
+          data-wow-duration="1500ms"
+          data-wow-delay="200ms"
+        >
           <div class="service-one__single">
             <div class="service-icon icon-bg-3">
               <div class="icon-box icon-box-bg-3">
@@ -40,12 +57,19 @@
               </div>
             </div>
             <div class="text">
-              <h3>Manage user</h3>
-              <p>Lorem ipsum is are many variations of pass majy.</p>
+              <h3>Criar relações saúdaveis</h3>
+              <p>
+                Se alguém deseja se relacionar melhor consigo mesmo ou com
+                outras pessoas.
+              </p>
             </div>
           </div>
         </div>
-        <div class=" col-xl-3 col-lg-3 col-md-6 wow fadeInRight" data-wow-duration="1500ms" data-wow-delay="300ms">
+        <div
+          class=" col-xl-3 col-lg-3 col-md-6 wow fadeInRight"
+          data-wow-duration="1500ms"
+          data-wow-delay="300ms"
+        >
           <div class="service-one__single">
             <div class="service-icon icon-bg-4">
               <div class="icon-box icon-box-bg-4">
@@ -53,8 +77,11 @@
               </div>
             </div>
             <div class="text">
-              <h3>Free trial</h3>
-              <p>Lorem ipsum is are many variations of pass majy.</p>
+              <h3>Livrar-se de dependências</h3>
+              <p>
+                Auxilio na recuperação de sofrimento mental permanente ou
+                temporário.
+              </p>
             </div>
           </div>
         </div>
@@ -64,11 +91,9 @@
 </template>
 
 <script>
-    export default {
-        name: "Features"
-    }
+export default {
+  name: "Features"
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
